@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f6a40742699c540bdb2fe77bbe6a1f7ecc4c984\output\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ajay.tiwari\.android\build-cache\ac50b610a6a44ca07bcd9e2dcbbd0f5738fd5690\output\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\ajay.tiwari\.android\build-cache\f323948c40314fdc23ee93f4028bd3072bb8db65\output\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ajay.tiwari\.android\build-cache\ac50b610a6a44ca07bcd9e2dcbbd0f5738fd5690\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ajay.tiwari\.android\build-cache\ac50b610a6a44ca07bcd9e2dcbbd0f5738fd5690\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:11:9-40
+activity#trackue.atdrive.com.activity.MainActivity
+ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:name
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:12:19-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from F:\2017\Trackue\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f6a40742699c540bdb2fe77bbe6a1f7ecc4c984\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f6a40742699c540bdb2fe77bbe6a1f7ecc4c984\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ajay.tiwari\.android\build-cache\ac50b610a6a44ca07bcd9e2dcbbd0f5738fd5690\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\ajay.tiwari\.android\build-cache\ac50b610a6a44ca07bcd9e2dcbbd0f5738fd5690\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\ajay.tiwari\.android\build-cache\f323948c40314fdc23ee93f4028bd3072bb8db65\output\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\ajay.tiwari\.android\build-cache\f323948c40314fdc23ee93f4028bd3072bb8db65\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+		INJECTED from F:\2017\Trackue\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\be441f715a190f15f760b4a076c23cbe777707a6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\10d678137fea53ee3bfce516e8942b816a1ffdcd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\8acbf66a40aba06d0492edac31354923c11466c1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f6a40742699c540bdb2fe77bbe6a1f7ecc4c984\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f6a40742699c540bdb2fe77bbe6a1f7ecc4c984\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\36f562a7591cdc07ecf38f364a06dfb63e221fa1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\515517fc9db1511b63f2a43cfa8fd85e8f0e0f61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\99e1bea9ce58826a8b8ba18268828f81cf421b4f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\6f85f62d90f17d24f3022aebdf7e33fe8937ff60\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\79e9526c6309a5807b91012c508b5790d9ff8361\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\196853f9ac94d4f262f0e1ba693c3dd5fc4e01b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\e825544e6f994bc851947a81d2d2fb7de58711bf\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ajay.tiwari\.android\build-cache\05034abbeaee88ad52cd32523eafc89e55faab77\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00AA8D</color>
+    <color name="colorPrimaryDark">#008975</color>
+    <color name="colorAccent">#00BF9A</color>
+
+
+    <!-- Main Activity -->
+    <color name="default_tab_color">#6B6C6F</color>
+    <color name="selected_tab_color">#00AA8D</color>
+    <color name="color_bottom_bar">#EEEEEE</color>
+
+</resources>
